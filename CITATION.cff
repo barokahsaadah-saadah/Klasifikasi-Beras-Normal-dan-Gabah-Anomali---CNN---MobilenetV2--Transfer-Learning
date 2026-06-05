@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite the primary journal article below."
+authors:
+  - family-names: "Saadah"
+    given-names: "Barokah"
+    email: "barokahsaadah@email.com"
+  - family-names: "Saputri"
+    given-names: "Tri Aristi"
+    email: "aristy@dharmawacana.ac.id"
+title: "Rice and Unhusked Grain Anomaly Dataset"
+type: dataset
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Saadah"
+      given-names: "Barokah"
+    - family-names: "Saputri"
+      given-names: "Tri Aristi"
+  title: "Classification of Paddy as Visual Anomaly in Rice Piles Using MobileNetV2-Based Convolutional Neural Network"
+  journal: "Sinkron: Jurnal dan Penelitian Teknik Informatika"
+  year: 2026
+  volume: "xx"
+  issue: "xx"
+  doi: "10.33395/sinkron.xxx.xxx"
